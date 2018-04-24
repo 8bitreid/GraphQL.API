@@ -1,0 +1,9 @@
+C:\src\GitHubRepo\GraphQL.API\Grqphql.Core\bin\Debug\netcoreapp2.0\Grqphql.Core.deps.json
+C:\src\GitHubRepo\GraphQL.API\Grqphql.Core\bin\Debug\netcoreapp2.0\Grqphql.Core.dll
+C:\src\GitHubRepo\GraphQL.API\Grqphql.Core\bin\Debug\netcoreapp2.0\Grqphql.Core.pdb
+C:\src\GitHubRepo\GraphQL.API\Grqphql.Core\obj\Debug\netcoreapp2.0\Grqphql.Core.csprojResolveAssemblyReference.cache
+C:\src\GitHubRepo\GraphQL.API\Grqphql.Core\obj\Debug\netcoreapp2.0\Grqphql.Core.csproj.CoreCompileInputs.cache
+C:\src\GitHubRepo\GraphQL.API\Grqphql.Core\obj\Debug\netcoreapp2.0\Grqphql.Core.AssemblyInfoInputs.cache
+C:\src\GitHubRepo\GraphQL.API\Grqphql.Core\obj\Debug\netcoreapp2.0\Grqphql.Core.AssemblyInfo.cs
+C:\src\GitHubRepo\GraphQL.API\Grqphql.Core\obj\Debug\netcoreapp2.0\Grqphql.Core.dll
+C:\src\GitHubRepo\GraphQL.API\Grqphql.Core\obj\Debug\netcoreapp2.0\Grqphql.Core.pdb
