@@ -664,30 +664,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rmewborne\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/reidmewborne/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\src\\GitHubRepo\\GraphQL.API\\Grqphql.Core\\Grqphql.Core.csproj",
+      "projectUniqueName": "/Users/reidmewborne/Developer/GitHubRepo/GraphQL.API/Grqphql.Core/Grqphql.Core.csproj",
       "projectName": "Grqphql.Core",
-      "projectPath": "C:\\src\\GitHubRepo\\GraphQL.API\\Grqphql.Core\\Grqphql.Core.csproj",
-      "packagesPath": "C:\\Users\\rmewborne\\.nuget\\packages\\",
-      "outputPath": "C:\\src\\GitHubRepo\\GraphQL.API\\Grqphql.Core\\obj\\",
+      "projectPath": "/Users/reidmewborne/Developer/GitHubRepo/GraphQL.API/Grqphql.Core/Grqphql.Core.csproj",
+      "packagesPath": "/Users/reidmewborne/.nuget/packages/",
+      "outputPath": "/Users/reidmewborne/Developer/GitHubRepo/GraphQL.API/Grqphql.Core/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\rmewborne\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/reidmewborne/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
