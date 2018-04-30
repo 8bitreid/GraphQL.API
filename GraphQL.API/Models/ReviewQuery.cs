@@ -10,7 +10,7 @@ namespace GraphQL.API.Models
         {
             Field<ReviewType>(
                 "review",
-                resolve: context => new Review { Id = 1, Body = "Best place ever!", Rating = 5, User = "rmewborne@me.com" }
+                resolve: context => new Review { Id = 1, Body = "GraphQL is awesome!", Rating = 5, User = "DropAcake@me.com" }
                 );
         }
     }
