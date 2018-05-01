@@ -1,16 +1,18 @@
 ﻿using GraphQL.API.GraphTypes;
 using GraphQL.Types;
+using Grqphql.Core.data;
 using Grqphql.Core.Models;
 
 namespace GraphQL.API.Models
 {
     public class ReviewQuery : ObjectGraphType
     {
-        public ReviewQuery()
+        private IReviewsRepository ReviewsRepository { get; set; }
+        public ReviewQuery(IReviewsRepository reviewsRepository)
         {
             Field<ReviewType>(
                 "review",
-                resolve: context => new Review { Id = 1, Body = "Best place ever!", Rating = 5, User = "rmewborne@me.com" }
+                resolve: context => reviewsRepository.Get(1)
                 );
         }
     }

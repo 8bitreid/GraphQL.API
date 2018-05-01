@@ -1,0 +1,12 @@
+C:\src\GitHubRepo\GraphQL.API\Graphql.Data\bin\Debug\netcoreapp2.0\Graphql.Data.deps.json
+C:\src\GitHubRepo\GraphQL.API\Graphql.Data\bin\Debug\netcoreapp2.0\Graphql.Data.dll
+C:\src\GitHubRepo\GraphQL.API\Graphql.Data\bin\Debug\netcoreapp2.0\Graphql.Data.pdb
+C:\src\GitHubRepo\GraphQL.API\Graphql.Data\bin\Debug\netcoreapp2.0\Grqphql.Core.dll
+C:\src\GitHubRepo\GraphQL.API\Graphql.Data\bin\Debug\netcoreapp2.0\Grqphql.Core.pdb
+C:\src\GitHubRepo\GraphQL.API\Graphql.Data\obj\Debug\netcoreapp2.0\Graphql.Data.csprojResolveAssemblyReference.cache
+C:\src\GitHubRepo\GraphQL.API\Graphql.Data\obj\Debug\netcoreapp2.0\Graphql.Data.csproj.CoreCompileInputs.cache
+C:\src\GitHubRepo\GraphQL.API\Graphql.Data\obj\Debug\netcoreapp2.0\Graphql.Data.AssemblyInfoInputs.cache
+C:\src\GitHubRepo\GraphQL.API\Graphql.Data\obj\Debug\netcoreapp2.0\Graphql.Data.AssemblyInfo.cs
+C:\src\GitHubRepo\GraphQL.API\Graphql.Data\obj\Debug\netcoreapp2.0\Graphql.Data.csproj.CopyComplete
+C:\src\GitHubRepo\GraphQL.API\Graphql.Data\obj\Debug\netcoreapp2.0\Graphql.Data.dll
+C:\src\GitHubRepo\GraphQL.API\Graphql.Data\obj\Debug\netcoreapp2.0\Graphql.Data.pdb

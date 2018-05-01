@@ -19,6 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Graphql.Data\Graphql.Data.csproj" />
     <ProjectReference Include="..\Grqphql.Core\Grqphql.Core.csproj" />
   </ItemGroup>
 

@@ -3,7 +3,7 @@ using Grqphql.Core.Models;
 
 namespace Grqphql.Core.data
 {
-    public interface IReviewsRepisority
+    public interface IReviewsRepository
     {
          Task<Review> Get(int id);
     }
